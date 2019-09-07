@@ -1,2 +1,3 @@
 # FYCS15
-Learning github
+Learning github.
+I am learning how to commit changes in github.
